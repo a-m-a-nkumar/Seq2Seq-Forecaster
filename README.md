@@ -1,4 +1,5 @@
-# Predictive-Analytics-with-Seq2Seq-LSTM
+# Seq2Seq-Forecaster
+
 
 
 ## Introduction
