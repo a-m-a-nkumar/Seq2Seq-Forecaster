@@ -1,4 +1,5 @@
-# Predictive-Analytics-with-Seq2Seq-LSTM
+# Seq2Seq-Forecaster
+
 
 
 ## Introduction
@@ -12,9 +13,7 @@ This document aims to demystify the implementation of Seq2Seq models using an LS
 - **`How it works.md`**: Main document explaining the functionality and implementation of the model.
 - **`Seq2Seq (LSTM).ipynb`**: Jupyter notebook containing the implementation script for the model.
 
-## Reproducing Competition Results
-
-To replicate the results from the competition or experiment:
+## Reproducing Results
 
 1. **Download Input Files**:
    - Navigate to the `data` folder and retrieve the following files: `train_final.zip`, `test_final.csv`, and `sample_submission`.
